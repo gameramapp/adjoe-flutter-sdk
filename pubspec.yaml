@@ -25,7 +25,5 @@ flutter:
       android:
         package: io.adjoe.flutter.sdk
         pluginClass: SdkPlugin
-      ios:
-        pluginClass: SdkPlugin
 
 publish_to: none
